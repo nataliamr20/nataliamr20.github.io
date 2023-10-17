@@ -1,0 +1,135 @@
+@import url(https://db.onlinewebfonts.com/c/74fc282ac1937b053f409b3b70eb1bb6?family=Helvetica+Ultra+Compressed);
+@font-face {
+    font-family: "Helvetica Ultra Compressed";
+    src: url("https://db.onlinewebfonts.com/t/74fc282ac1937b053f409b3b70eb1bb6.eot");
+    src: url("https://db.onlinewebfonts.com/t/74fc282ac1937b053f409b3b70eb1bb6.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/74fc282ac1937b053f409b3b70eb1bb6.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/74fc282ac1937b053f409b3b70eb1bb6.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/74fc282ac1937b053f409b3b70eb1bb6.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/74fc282ac1937b053f409b3b70eb1bb6.svg#Helvetica Ultra Compressed")format("svg");
+}
+@media (max-width: 768px) {
+    body {
+      font-size: 14px;
+    }
+  }
+  
+  @media (max-width: 768px) and (orientation: portrait) {
+    body {
+      background-color: #c0c0c0;
+    }
+  }
+
+.Img_arriba {
+    position:fixed;
+    left: 20px; 
+    top: 10px;
+}
+
+.colorI1 {
+    padding: 30px;
+    background-color: #00643e;
+}
+.primera {
+    width: 100%; 
+    max-height: auto; 
+}
+.Desc {
+    color:#fff;
+    
+}
+.colorI2 {
+    padding: 30px;
+    background-color: #fe5000;
+}
+.segunda {
+    width: 100%; 
+    max-height: auto; 
+}
+.colorI3 {
+    padding: 30px;
+    background-color: #76232f;
+}
+.tercera {
+    width: 100%; 
+    max-height: auto;
+}
+.colorI4 {
+    padding: 30px;
+    background-color: #002933;
+}
+.cuarta {
+    width: 100%; 
+    max-height: auto;
+}
+.colorI5 {
+    padding: 30px;
+    background-color: #1e3932;
+}
+.quinta {
+    width: 100%; 
+    max-height: auto;
+}
+
+.colorI6 {
+    padding: 30px;
+    background-color: #d9eff0;
+}
+.DescV {
+    color: #1e3932;
+}
+.colorI7 {
+    padding: 30px;
+    background-color:#ad96dc;
+}
+.colorI8 {
+    padding: 30px;
+    background-color: #003b49;
+}
+.colorI9 {
+    padding: 30px;
+    background-color: #b73d55;
+}
+
+.icon-footer1 {
+    padding-right: 4%;
+    color: #000;
+
+}
+.avisos {
+    color:black;
+}
+.lineaSep {
+    color: #000;
+}
+
+.Imagen {
+    width: 100%; 
+    max-height: auto; 
+}
+.dropdown-toggle {
+    color: #000;
+}
+.colorI10 {
+    background-color: #0f352e;
+}
+
+/* Estilos para el contenedor principal */
+.contenedor {
+    display: flex;
+}
+
+/* Estilo para la mitad fija */
+.mitad-fija {
+    flex: 0.1; /* Ocupa la mitad del espacio disponible */
+    background-color: #0e5e45;
+    padding: 100px;
+    color: #fff;
+}
+
+/* Estilo para la mitad de datos */
+.mitad-datos {
+    flex: 1; /* Ocupa la otra mitad del espacio disponible */
+    background-color: #ebeaea;
+    padding: 20px;
+}
